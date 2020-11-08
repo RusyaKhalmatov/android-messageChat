@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">MessageChat</string>
+    <string name="welcomeText">Welcome the the MessageChat app</string>
+    <string name="underWelcome">Enter the system</string>
+    <string name="emailText">Email:</string>
+    <string name="passwordText">Password:</string>
+    <string name="sign_in">Sign In</string>
+    <string name="create_acc">Create account</string>
+    <string name="nameText">User name:</string>
+    <string name="action_settings">Settings</string>
+    <string name="action_addContact">Add contact</string>
+    <string name="title_activity_create_contact">Create Contact</string>
+    <string name="add_contact_text">Create a contact</string>
+    <string name="enter_email">Enter Email address</string>
+    <string name="cont_create">Add contact</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="title_activity_contact_detail">ContactDetail</string>
+    <string name="users_name">User name</string>
+    <string name="type_here">Message</string>
+    <string name="but_text">Send</string>
+
+</resources>

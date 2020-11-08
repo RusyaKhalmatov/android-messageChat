@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "534264035277",
+    "firebase_url": "https://messagechat-ad9d4.firebaseio.com",
+    "project_id": "messagechat-ad9d4",
+    "storage_bucket": "messagechat-ad9d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:534264035277:android:9931acb813c9caad",
+        "android_client_info": {
+          "package_name": "uz.rusya.messagechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "534264035277-2e0geduq9mjjgcpso1mn9a10kmt2q826.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "uz.rusya.messagechat",
+            "certificate_hash": "bd8af3b173c09d70513fc22b1dfc5f3e53dc8f37"
+          }
+        },
+        {
+          "client_id": "534264035277-s3c0i2pu40pauf6cdfe873cb26fbk9rl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAbcPA9Qt79MQR3eBfAxaa8JrAGWhGr7DQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "534264035277-s3c0i2pu40pauf6cdfe873cb26fbk9rl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
